@@ -15,11 +15,6 @@ El siguiente algoritmo es una forma de calcular la sucesión Fibonacci de forma 
         if (n == 1) {
             return 1;
         }
-        if (map.containsKey(n)) {
-            map.put(n, map.get(n) + new Long(1));
-        } else {
-            map.put(n, new Long(1));
-        }
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
 ```
