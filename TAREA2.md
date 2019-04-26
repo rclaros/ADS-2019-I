@@ -67,5 +67,47 @@ Nro:18 ,Nro. veces calculado : 2
 Nro:19 ,Nro. veces calculado : 1
 Nro:20 ,Nro. veces calculado : 1
 ```
+```
+Fibonacci(40)=102334155
+Nro:2 ,Nro. veces calculado : 63245986
+Nro:3 ,Nro. veces calculado : 39088169
+Nro:4 ,Nro. veces calculado : 24157817
+Nro:5 ,Nro. veces calculado : 14930352
+Nro:6 ,Nro. veces calculado : 9227465
+Nro:7 ,Nro. veces calculado : 5702887
+Nro:8 ,Nro. veces calculado : 3524578
+Nro:9 ,Nro. veces calculado : 2178309
+Nro:10 ,Nro. veces calculado : 1346269
+Nro:11 ,Nro. veces calculado : 832040
+Nro:12 ,Nro. veces calculado : 514229
+Nro:13 ,Nro. veces calculado : 317811
+Nro:14 ,Nro. veces calculado : 196418
+Nro:15 ,Nro. veces calculado : 121393
+Nro:16 ,Nro. veces calculado : 75025
+Nro:17 ,Nro. veces calculado : 46368
+Nro:18 ,Nro. veces calculado : 28657
+Nro:19 ,Nro. veces calculado : 17711
+Nro:20 ,Nro. veces calculado : 10946
+Nro:21 ,Nro. veces calculado : 6765
+Nro:22 ,Nro. veces calculado : 4181
+Nro:23 ,Nro. veces calculado : 2584
+Nro:24 ,Nro. veces calculado : 1597
+Nro:25 ,Nro. veces calculado : 987
+Nro:26 ,Nro. veces calculado : 610
+Nro:27 ,Nro. veces calculado : 377
+Nro:28 ,Nro. veces calculado : 233
+Nro:29 ,Nro. veces calculado : 144
+Nro:30 ,Nro. veces calculado : 89
+Nro:31 ,Nro. veces calculado : 55
+Nro:32 ,Nro. veces calculado : 34
+Nro:33 ,Nro. veces calculado : 21
+Nro:34 ,Nro. veces calculado : 13
+Nro:35 ,Nro. veces calculado : 8
+Nro:36 ,Nro. veces calculado : 5
+Nro:37 ,Nro. veces calculado : 3
+Nro:38 ,Nro. veces calculado : 2
+Nro:39 ,Nro. veces calculado : 1
+Nro:40 ,Nro. veces calculado : 1
+```
 
-Entonces, si ejecuto la misma función con números mas grandes, se verá como se prolonga el tiempo de respuesta del programa, es decir podemos concluir que la función es de complejidad exponencial.
+Entonces, si ejecuto la misma función con números mas grandes, se verá como se prolonga el tiempo de respuesta del programa, es decir podemos concluir que la función es de complejidad exponencial N(n^2).
