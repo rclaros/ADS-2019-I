@@ -67,6 +67,7 @@ G:\mygithub\ADF-FIBONACCI>git commit -m "Mis primeros cambios"
 
 Una vez realizado el commit estamos listo para subir a nuestro repositorio a GitHub.
 # Paso 5:
+Al intentar subir al repositorio de GitHub, nos solicitará nuestras credenciales,una vez proporcionado continuará con el proceso de subida.
 ```
 G:\mygithub\ADF-FIBONACCI>git push origin master
 
