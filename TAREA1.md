@@ -21,11 +21,12 @@ El numero de operaciones necesarias para llegar a ese punto es i, donde
 n/2^i  =1, la solución para i nos da: i=log n, el número máximo de comparaciones es logarítmico respecto al número de ítems de la lista O(log n)
 
 
-Vamos a ver en código como podemos ver la cantidad de operaciones en 3 casos específicos.
-```
-int NEEDLE = 249;
-List<Integer> valueList = Arrays.asList(2, 4, 4, 5, 7, 10, 23, 25, 64, 65, 70, 90, 123, 249, 403, 499, 600, 900, 1000);
-```
+Veamos la cantidad de iteraciones que debe hacer en una lista de 5 millones.
+
+El objetivo es encontrar el número es : 5000000
+
+Resultado.
+
 ```
 Tamaño de lista : 5000000
 Encontrar el Nro. 5000000
