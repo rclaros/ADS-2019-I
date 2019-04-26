@@ -1,8 +1,7 @@
 # Trabajos del curso ADF-2019-I
 
 
-## Reynaldo Claros.
-## reyiclaros@gmail.com
+### Reynaldo Claros.
 
 # [Busqueda Binaria -Explicación](https://github.com/rclaros/ADS-2019-I/blob/master/TAREA1.md)
 
