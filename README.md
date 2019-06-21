@@ -1,7 +1,4 @@
-# Trabajos del curso ADF-2019-I
-
-
-### Reynaldo Claros.
+# Themes
 
 # [Busqueda Binaria -Explicación](https://github.com/rclaros/ADS-2019-I/blob/master/TAREA1.md)
 
